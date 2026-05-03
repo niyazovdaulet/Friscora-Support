@@ -20,10 +20,4 @@ Static support site for the Friscora iOS app. Deploy as GitHub Pages (or any sta
 
 ## Local preview
 
-Open `index.html` in a browser, or run a static server from this directory:
-
-```bash
-python3 -m http.server 8080
-```
-
-Then visit `http://localhost:8080`.
+Visit `https://niyazovdaulet.github.io/Friscora-Support/`.
